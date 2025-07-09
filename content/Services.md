@@ -1,7 +1,7 @@
 ![[Logo better.jpg]]
 
 ---
-[[About]] | [[Approach]]| [[Services]] | [[Contact US]]
+[[index|About Us]]| [[Approach]] | [[Services]] | [[Contact US]]
 
 ---
 
