@@ -1,3 +1,7 @@
+---
+title: About
+draft: false
+---
 ![[Logo better.jpg]]
 
 ---
